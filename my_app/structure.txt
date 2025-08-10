@@ -1,0 +1,19 @@
+my_chatbot/
+│
+├── app
+│   ├── static/
+│       └── styles.css
+|   ├── templates/
+│       ├── index.html
+│       ├── login.html
+│       ├── feedback.html
+│       └── project_info.html
+|   ├── __init__.py
+|   ├── models.py
+|   ├── routes.py
+|   ├── utils.py
+|   ├── config.py
+├── data/
+│   └── data.db
+├── requirements.txt
+└── run.py
