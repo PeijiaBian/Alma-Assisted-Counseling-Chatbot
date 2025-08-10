@@ -1,0 +1,10 @@
+# 忽略虚拟环境文件夹
+project_env/
+
+# 但不忽略压缩包
+!project_env.zip
+
+# 一些常见的缓存文件也可以顺便忽略
+__pycache__/
+*.pyc
+.DS_Store
